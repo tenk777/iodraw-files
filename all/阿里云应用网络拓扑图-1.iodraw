@@ -43,7 +43,7 @@
           <mxGeometry x="570" y="497" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="740" y="359" width="830" height="560" as="geometry" />
+          <mxGeometry x="710" y="392.5" width="830" height="560" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-15" value="&lt;br style=&quot;font-size: 56px;&quot;&gt;VPC" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;strokeColor=none;fillColor=#0B2063;shape=mxgraph.azure.cloud;fontSize=56;fontColor=#FFFFFF;labelPosition=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="837" y="216.5" width="333" height="176" as="geometry" />
