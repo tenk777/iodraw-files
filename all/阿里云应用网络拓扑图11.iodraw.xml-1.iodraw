@@ -1,0 +1,241 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram id="Dynamic-Opinion-Spread" name="动态舆情传播拓扑图">
+    <mxGraphModel dx="2578" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="舆情攻击传播动态拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="500" y="20" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stage1-label" value="初始阶段：机器人网络边缘注入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="150" y="80" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bot-cluster1" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;strokeDashpattern=5 5;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bot1" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot2" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="100" y="140" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot3" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot4" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="130" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot5" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot6" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot7" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="130" y="170" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot-cluster2" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;strokeDashpattern=5 5;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bot8" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="310" y="150" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot9" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot10" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="350" y="160" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot11" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot12" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot13" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="340" y="190" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot14" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot-cluster3" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;strokeDashpattern=5 5;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="510" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bot15" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="540" y="150" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot16" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="140" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot17" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="160" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot18" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="130" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot19" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="550" y="180" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot20" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="570" y="190" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bot21" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF0000;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="590" y="170" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="stage2-label" value="扩散阶段：中层KOL感染扩散" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="150" y="280" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kol1" value="KOL1" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#0066CC;strokeWidth=2;fillColor=#66CCFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="150" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kol2" value="KOL2" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#0066CC;strokeWidth=2;fillColor=#66CCFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="250" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kol3" value="KOL3" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#0066CC;strokeWidth=2;fillColor=#66CCFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="350" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kol4" value="KOL4" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#0066CC;strokeWidth=2;fillColor=#66CCFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="450" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kol5" value="KOL5" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#0066CC;strokeWidth=2;fillColor=#66CCFF;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="550" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="user1" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="130" y="300" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="user2" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="170" y="300" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="user3" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="150" y="340" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="user4" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="user5" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="270" y="300" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="user6" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=4;" parent="1" vertex="1">
+          <mxGeometry x="250" y="340" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="stage3-label" value="爆发阶段：高级跳板全网广播" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#FFD700;" parent="1" vertex="1">
+          <mxGeometry x="150" y="400" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="influencer1" value="主流媒体" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#FFD700;strokeWidth=3;fillColor=#FFFACD;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="influencer2" value="政治领袖" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#FFD700;strokeWidth=3;fillColor=#FFFACD;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="influencer3" value="顶级网红" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=#FFD700;strokeWidth=3;fillColor=#FFFACD;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user1" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="100" y="500" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user2" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user3" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="140" y="520" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user4" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="300" y="480" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user5" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="320" y="520" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user6" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="450" y="500" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user7" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="470" y="480" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user8" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="490" y="520" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user9" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="600" y="480" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="net-user10" value="" style="shape=ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFD700;fontSize=3;" parent="1" vertex="1">
+          <mxGeometry x="620" y="500" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="path1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bot-cluster1" target="kol1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bot-cluster2" target="kol2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bot-cluster2" target="kol3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bot-cluster3" target="kol4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bot-cluster3" target="kol5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kol1" target="kol2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kol2" target="kol3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kol3" target="kol4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kol4" target="kol5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kol1" target="influencer1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kol3" target="influencer2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kol5" target="influencer3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="influencer1" target="influencer2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="path14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="influencer2" target="influencer3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer1" target="net-user1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer1" target="net-user2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer2" target="net-user4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer2" target="net-user5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer3" target="net-user9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="broadcast6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD700;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="influencer3" target="net-user10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="effect1" value="边缘注入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="150" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="effect2" value="感染扩散" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="350" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="effect3" value="全网点燃" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFD700;" parent="1" vertex="1">
+          <mxGeometry x="350" y="550" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend" value="动态传播拓扑图例\n🔴 红色节点簇：机器人网络（边缘）\n🔵 蓝色节点：中层KOL（扩散桥梁）\n🟡 金色节点：高级跳板（核心影响者）\n➡️ 连线：信息传播路径\n📈 节点大小：影响力级别" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f9f9f9;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="600" y="80" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="analysis" value="攻击策略分析：\n• 以小博大：少量机器人撬动大规模舆论\n• 精准感染：选择关键中层KOL作为跳板\n• 病毒扩散：利用社交网络结构实现指数传播\n• 全网引爆：顶级影响者参与形成舆论风暴" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f0f8ff;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="600" y="250" width="200" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
