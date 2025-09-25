@@ -230,7 +230,7 @@
           <mxGeometry x="350" y="550" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend" value="动态传播拓扑图例\n🔴 红色节点簇：机器人网络（边缘）\n🔵 蓝色节点：中层KOL（扩散桥梁）\n🟡 金色节点：高级跳板（核心影响者）\n➡️ 连线：信息传播路径\n📈 节点大小：影响力级别" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f9f9f9;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="600" y="80" width="200" height="140" as="geometry" />
+          <mxGeometry x="730" y="110" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="analysis" value="攻击策略分析：\n• 以小博大：少量机器人撬动大规模舆论\n• 精准感染：选择关键中层KOL作为跳板\n• 病毒扩散：利用社交网络结构实现指数传播\n• 全网引爆：顶级影响者参与形成舆论风暴" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f0f8ff;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="600" y="250" width="200" height="100" as="geometry" />
