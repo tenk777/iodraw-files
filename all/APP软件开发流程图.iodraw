@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r6b2Ig6sD5F22O2-pfEM-27" value="图5.4 威胁情报获取模块架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Arial;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="30" width="400" height="30" as="geometry" />
+          <mxGeometry x="340" y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r6b2Ig6sD5F22O2-pfEM-28" value="&lt;b&gt;主控制器&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 任务调度管理&lt;br&gt;• 模块协调控制&lt;br&gt;• 状态监控&lt;br&gt;• 异常处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1F5FE;strokeColor=#01579B;strokeWidth=2;fontSize=12;fontFamily=Arial;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="200" height="120" as="geometry" />
