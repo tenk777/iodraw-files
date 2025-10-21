@@ -84,10 +84,10 @@
         </mxCell>
         <mxCell id="Y6zlSQOiVh670hHcIdBN-16" value="原始数据" style="endArrow=classic;html=1;labelBackgroundColor=#ffffff;strokeColor=#388E3C;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#388E3C;align=center;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="270" as="sourcePoint" />
-            <mxPoint x="350" y="450" as="targetPoint" />
+            <mxPoint x="850" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="360" />
+              <mxPoint x="600" y="380" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
