@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
+  <diagram id="-eeF4dPnX65M_ghFCyeH" name="Page-1">
+    <mxGraphModel dx="1239" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-495" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_HG-l6Gan8gQg0eftMSn-496" target="_HG-l6Gan8gQg0eftMSn-499" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-496" value="&lt;span style=&quot;font-size: medium&quot;&gt;评估开发周期&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="294" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-498" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_HG-l6Gan8gQg0eftMSn-499" target="_HG-l6Gan8gQg0eftMSn-501" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-499" value="&lt;span style=&quot;font-size: medium&quot;&gt;功能开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="399" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-500" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_HG-l6Gan8gQg0eftMSn-501" target="_HG-l6Gan8gQg0eftMSn-504" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-501" value="&lt;span style=&quot;font-size: medium&quot;&gt;功能测试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="609" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-503" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_HG-l6Gan8gQg0eftMSn-504" target="_HG-l6Gan8gQg0eftMSn-505" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-504" value="&lt;span style=&quot;font-size: medium&quot;&gt;通过&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="714" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-505" value="&lt;span style=&quot;font-size: medium&quot;&gt;提交BUG&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="819" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
