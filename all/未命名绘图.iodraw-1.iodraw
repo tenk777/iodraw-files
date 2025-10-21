@@ -1,92 +1,107 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
-  <diagram name="Page-1" id="Xh543lRDLkzugiiv3G5W">
+  <diagram name="威胁情报关联分析图谱" id="Wje87wBzVubrlMutYlos">
     <mxGraphModel dx="2066" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-1" value="统一任务调度器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="300" height="80" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-1" value="图5.6 威胁情报关联分析图谱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-2" value="主动探测子模块&lt;br&gt;&lt;div style=&quot;font-size:12px;&quot;&gt;• ICMP探测器&lt;br&gt;• 端口扫描器&lt;br&gt;• 服务识别器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-2" value="威胁情报实体层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#0277bd;strokeWidth=2;fontSize=14;fontColor=#000000;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="900" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-3" value="被动探测子模块&lt;br&gt;&lt;div style=&quot;font-size:12px;&quot;&gt;• 流量监控器&lt;br&gt;• 数据包分析器&lt;br&gt;• 行为识别器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-3" value="APT组织&#xa;Lazarus Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff5722;strokeColor=#d84315;strokeWidth=2;fontSize=11;fontColor=#ffffff;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-4" value="资产指纹识别子模块&lt;br&gt;&lt;div style=&quot;font-size:12px;&quot;&gt;• 指纹库&lt;br&gt;• 匹配引擎&lt;br&gt;• 分类器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-4" value="恶意IP地址&#xa;192.168.1.100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff9800;strokeColor=#f57c00;strokeWidth=2;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-5" value="漏洞扫描子模块&lt;br&gt;&lt;div style=&quot;font-size:12px;&quot;&gt;• 扫描引擎&lt;br&gt;• 漏洞库&lt;br&gt;• 评估器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="850" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-5" value="恶意域名&#xa;evil.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffc107;strokeColor=#ff8f00;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-6" value="结果汇聚中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=#0B5395;gradientColor=none;fontFamily=Times New Roman;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="400" width="300" height="80" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-6" value="文件哈希&#xa;MD5:a1b2c3..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=#388e3c;strokeWidth=2;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-7" value="任务分发" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="80" height="70" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-7" value="攻击技术&#xa;鱼叉式钓鱼" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196f3;strokeColor=#1976d2;strokeWidth=2;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-8" value="任务分发" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="80" height="70" as="geometry" />
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-8" value="攻击目标&#xa;金融机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9c27b0;strokeColor=#7b1fa2;strokeWidth=2;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-9" value="" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-9" value="关联分析层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;strokeWidth=2;fontSize=14;fontColor=#000000;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="900" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-10" value="关系分析引擎&#xa;• 实体关联识别&#xa;• 关系强度计算&#xa;• 路径发现算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#4caf50;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-11" value="模式识别模块&#xa;• 攻击模式匹配&#xa;• 行为特征分析&#xa;• 异常检测算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-12" value="图分析算法&#xa;• 社区发现&#xa;• 中心性分析&#xa;• 最短路径计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-13" value="时序分析引擎&#xa;• 时间线构建&#xa;• 事件序列分析&#xa;• 攻击链重构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#e91e63;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-14" value="威胁评分系统&#xa;• 威胁等级评估&#xa;• 风险量化分析&#xa;• 优先级排序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f8e9;strokeColor=#689f38;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-15" value="图数据库存储层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#ff8f00;strokeWidth=2;fontSize=14;fontColor=#000000;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-16" value="Neo4j图数据库&#xa;• 节点存储&#xa;• 关系存储&#xa;• 索引管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#4caf50;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-17" value="图缓存系统&#xa;• 热点数据缓存&#xa;• 查询结果缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-18" value="备份恢复系统&#xa;• 数据备份&#xa;• 灾难恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-19" value="数据同步模块&#xa;• 实时同步&#xa;• 增量更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#e91e63;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-20" value="查询引擎&#xa;• Cypher查询&#xa;• 复杂路径查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f8e9;strokeColor=#689f38;strokeWidth=2;fontSize=11;fontColor=#000000;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-21" value="应用服务层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fbe7;strokeColor=#827717;strokeWidth=2;fontSize=14;fontColor=#000000;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="900" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-22" value="关联查询服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#4caf50;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-23" value="路径分析服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-24" value="可视化服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-25" value="报告生成服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#e91e63;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-26" value="API接口服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f8e9;strokeColor=#689f38;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-27" value="告警推送服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#ff8f00;strokeWidth=2;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-28" value="实体数据" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;strokeWidth=2;fontSize=10;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="130" as="sourcePoint" />
-            <mxPoint x="200" y="200" as="targetPoint" />
+            <mxPoint x="500" y="230" as="sourcePoint" />
+            <mxPoint x="500" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-10" value="" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-29" value="分析结果" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;strokeWidth=2;fontSize=10;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="130" as="sourcePoint" />
-            <mxPoint x="450" y="200" as="targetPoint" />
+            <mxPoint x="500" y="430" as="sourcePoint" />
+            <mxPoint x="500" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-11" value="" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+        <mxCell id="Ldbjgmsd7tblBYcEkUxo-30" value="查询请求" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;strokeWidth=2;fontSize=10;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="130" as="sourcePoint" />
-            <mxPoint x="700" y="200" as="targetPoint" />
+            <mxPoint x="500" y="600" as="sourcePoint" />
+            <mxPoint x="500" y="650" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-12" value="" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="130" as="sourcePoint" />
-            <mxPoint x="950" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-13" value="探测结果" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="320" as="sourcePoint" />
-            <mxPoint x="500" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-14" value="监控数据" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="320" as="sourcePoint" />
-            <mxPoint x="550" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-15" value="指纹信息" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="320" as="sourcePoint" />
-            <mxPoint x="650" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-16" value="漏洞报告" style="endArrow=classic;html=1;strokeColor=#666666;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="320" as="sourcePoint" />
-            <mxPoint x="700" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-17" value="数据协作" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="300" y="240" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-18" value="信息共享" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-19" value="联合分析" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="800" y="240" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-20" value="&amp;nbsp;网络资产探测模块架构图" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Times New Roman;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="485" y="10" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
