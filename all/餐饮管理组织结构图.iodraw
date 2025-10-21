@@ -70,12 +70,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y6zlSQOiVh670hHcIdBN-15" value="反馈优化" style="endArrow=classic;html=1;labelBackgroundColor=#ffffff;strokeColor=#9C27B0;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#9C27B0;align=center;curved=1;exitX=0.933;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y6zlSQOiVh670hHcIdBN-6">
+        <mxCell id="Y6zlSQOiVh670hHcIdBN-15" value="反馈优化" style="endArrow=classic;html=1;labelBackgroundColor=#ffffff;strokeColor=#9C27B0;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#9C27B0;align=center;curved=1;exitX=0.99;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y6zlSQOiVh670hHcIdBN-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="510" as="sourcePoint" />
             <mxPoint x="360" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="400" />
               <mxPoint x="1110" y="510" />
               <mxPoint x="1110" y="100" />
               <mxPoint x="360" y="100" />
