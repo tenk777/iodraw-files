@@ -106,9 +106,6 @@
         <mxCell id="Hun5sIkG7OcMJW8w3UFx-62" value="数据处理层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Hun5sIkG7OcMJW8w3UFx-63" value="异常处理层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="145" y="335" width="20" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
