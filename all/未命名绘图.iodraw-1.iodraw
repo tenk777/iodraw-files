@@ -85,8 +85,8 @@
         <mxCell id="cRRd2WFbVgSJC1RrVa2l-19" value="联合分析" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#666666;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="240" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cRRd2WFbVgSJC1RrVa2l-20" value="图5.7 网络资产探测模块架构图" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Times New Roman;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="10" width="300" height="30" as="geometry" />
+        <mxCell id="cRRd2WFbVgSJC1RrVa2l-20" value="&amp;nbsp;网络资产探测模块架构图" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Times New Roman;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485" y="10" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
