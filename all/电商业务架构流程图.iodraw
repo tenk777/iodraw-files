@@ -7,9 +7,6 @@
         <mxCell id="Hun5sIkG7OcMJW8w3UFx-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;分层式微服务架构图&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#1565C0;gradientColor=none;fontFamily=SimSun;fontSize=20;fontColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="30" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Hun5sIkG7OcMJW8w3UFx-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;图5.2&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=0;fillColor=none;fontFamily=SimSun;fontSize=16;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="30" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Hun5sIkG7OcMJW8w3UFx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#1565C0;strokeWidth=2;fillColor=#E3F2FD;fontFamily=SimSun;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="1000" height="100" as="geometry" />
         </mxCell>
